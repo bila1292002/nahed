@@ -1,0 +1,11 @@
+c:\users\aa\documents\visual studio 2012\Projects\my game\my game\bin\Debug\my game.exe.config
+c:\users\aa\documents\visual studio 2012\Projects\my game\my game\obj\Debug\my game.csprojResolveAssemblyReference.cache
+c:\users\aa\documents\visual studio 2012\Projects\my game\my game\obj\Debug\my_game.Form1.resources
+c:\users\aa\documents\visual studio 2012\Projects\my game\my game\obj\Debug\my_game.form_oneplayer.resources
+c:\users\aa\documents\visual studio 2012\Projects\my game\my game\obj\Debug\my_game.form_twoplayer.resources
+c:\users\aa\documents\visual studio 2012\Projects\my game\my game\obj\Debug\my_game.Properties.Resources.resources
+c:\users\aa\documents\visual studio 2012\Projects\my game\my game\obj\Debug\my game.csproj.GenerateResource.Cache
+C:\Users\AA\Documents\Visual Studio 2012\Projects\my game\my game\bin\Debug\my game.exe
+C:\Users\AA\Documents\Visual Studio 2012\Projects\my game\my game\bin\Debug\my game.pdb
+C:\Users\AA\Documents\Visual Studio 2012\Projects\my game\my game\obj\Debug\my game.exe
+C:\Users\AA\Documents\Visual Studio 2012\Projects\my game\my game\obj\Debug\my game.pdb
